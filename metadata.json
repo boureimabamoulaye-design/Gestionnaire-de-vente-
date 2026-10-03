@@ -1,0 +1,6 @@
+{
+  "name": "UniversKaneprod",
+  "description": "Application mobile et web professionnelle de gestion des produits, achats, ventes, stocks, reçus et rapports connectée à UNIVERS-BASE-PROD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
